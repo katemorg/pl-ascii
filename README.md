@@ -99,6 +99,7 @@ The response contains the following top-level fields:
 
 
 The art response is in JSON format. The client is expected to parse this json to view the art. A [free online json parser](http://json.parser.online.fr/) is helpful for testing. 
+<br><br>
 ![cat2](https://github.com/katemorg/pl-ascii/assets/27252257/d55b63ed-f6e6-4271-a4ad-191a0f42c3dc)
 <img width="464" alt="image" src="https://github.com/katemorg/pl-ascii/assets/27252257/159137d8-c803-490d-8e2f-399567f3ad4b">
 
